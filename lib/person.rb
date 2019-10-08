@@ -4,8 +4,8 @@ class Person
     puts "Hello World!"
   end 
   
-  def 
-    puts "The Person is walking"
-  end 
+  # def 
+  #   puts "The Person is walking"
+  # end 
 
 end 
